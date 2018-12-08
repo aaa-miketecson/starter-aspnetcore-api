@@ -34,7 +34,7 @@ namespace Api.Controllers
         }
 
         /// <summary>
-        /// Sample post endpoint with description abc
+        /// Sample post endpoint with description
         /// </summary>
         /// <remarks>
         /// Sample request:
